@@ -6,11 +6,11 @@ We have a dataset having Data of the scoreboard of each matches played in the ye
 
 Being a data analyst we will perform EDA on the data to gain insights like:
 
--probability of winning a match of a chasing vs defending team.
--top bowlers 
--top players of the match
--top scorer of the IPL-2022
--on which stadium teams won the most matches? 
+- probability of winning a match of a chasing vs defending team.
+- top bowlers 
+- top players of the match
+- top scorer of the IPL-2022
+- on which stadium teams won the most matches? 
 
 
 ## Data
